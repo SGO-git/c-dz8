@@ -1,0 +1,15 @@
+D:\Learn\C# gb\C# DZ 2\dz 8\obj\Debug\net7.0\dz 8.csproj.AssemblyReference.cache
+D:\Learn\C# gb\C# DZ 2\dz 8\obj\Debug\net7.0\dz 8.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn\C# gb\C# DZ 2\dz 8\obj\Debug\net7.0\dz 8.AssemblyInfoInputs.cache
+D:\Learn\C# gb\C# DZ 2\dz 8\obj\Debug\net7.0\dz 8.AssemblyInfo.cs
+D:\Learn\C# gb\C# DZ 2\dz 8\obj\Debug\net7.0\dz 8.csproj.CoreCompileInputs.cache
+D:\Learn\C# gb\C# DZ 2\dz 8\bin\Debug\net7.0\dz 8.exe
+D:\Learn\C# gb\C# DZ 2\dz 8\bin\Debug\net7.0\dz 8.deps.json
+D:\Learn\C# gb\C# DZ 2\dz 8\bin\Debug\net7.0\dz 8.runtimeconfig.json
+D:\Learn\C# gb\C# DZ 2\dz 8\bin\Debug\net7.0\dz 8.dll
+D:\Learn\C# gb\C# DZ 2\dz 8\bin\Debug\net7.0\dz 8.pdb
+D:\Learn\C# gb\C# DZ 2\dz 8\obj\Debug\net7.0\dz 8.dll
+D:\Learn\C# gb\C# DZ 2\dz 8\obj\Debug\net7.0\refint\dz 8.dll
+D:\Learn\C# gb\C# DZ 2\dz 8\obj\Debug\net7.0\dz 8.pdb
+D:\Learn\C# gb\C# DZ 2\dz 8\obj\Debug\net7.0\dz 8.genruntimeconfig.cache
+D:\Learn\C# gb\C# DZ 2\dz 8\obj\Debug\net7.0\ref\dz 8.dll
